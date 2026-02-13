@@ -1,2 +1,2 @@
-# Python-Map-Generator
-A python programme to make and edit 2D maps
+# PromptMaps
+An AI model to generate maps by simple prompts 
